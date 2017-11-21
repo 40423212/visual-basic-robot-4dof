@@ -1,0 +1,4 @@
+[submodule "2017_MDE_Project"]
+	path = 2017_MDE_Project
+	url = https://github.com/40423217/2017_MDE_Project.git
+	branch = master
